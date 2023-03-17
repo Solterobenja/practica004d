@@ -5,5 +5,35 @@
     background-color: beige;
 }
 .fuente{
-    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
+.fuenteparrafos{
+    font-family: 'Montserrat', sans-serif; font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(182, 137, 55);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(194, 169, 26);
+  }
+  
+  .active {
+    background-color: #7a5716;
+  }
