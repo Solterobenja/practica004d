@@ -18,6 +18,15 @@
 .fuenteparrafos{
     font-family: 'Montserrat', sans-serif; font-weight: bold;
 }
+.centrar{
+  text-align: center;
+}
+.linksredes{
+  display: flex;
+  justify-content: center;
+  margin: 0px 10px;
+  margin-top: 20px;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -45,6 +54,3 @@ ul {
   .active {
     background-color: #7a5716;
   }
-.centrar{
-  text-align: center;
-}
