@@ -28,6 +28,20 @@
   margin-top: 20px;
   margin-bottom: 25px;
 }
+.img{
+  border-style: solid;
+  border-color: black;
+}
+#ig{
+  margin-top: 30px;
+}
+#twitter{
+  margin-right: 7px;
+  margin-left: 5px;
+}
+#facebook{
+  margin-top: 16px;
+}
 ul {
     list-style-type: none;
     margin: 0;
